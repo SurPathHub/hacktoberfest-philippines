@@ -54,7 +54,7 @@ Questions can be asked by raising an Issue. Bugs found? raised an Issue too.
 - Stage your changes.
 
 ```
-  git add README.md
+  git add Your_GitHub_Username.md
 ```
 
 - Commit the changes.
