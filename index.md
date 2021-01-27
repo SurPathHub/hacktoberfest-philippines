@@ -1,5 +1,3 @@
-# Surpath Community Members Information
-
-| Name Of Contributor | GitHub Profile | Portfolio | Bio |
+| Name Of Contributor | GitHub Profile | LinkedIn |  Portfolio | Bio |
 | - | - | - |
 {% include vinzvinci.md %}
