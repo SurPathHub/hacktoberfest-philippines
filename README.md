@@ -28,7 +28,7 @@ Questions can be asked by raising an Issue. Bugs found? raised an Issue too.
 - Using git on your local machine. Do this to download the forked copy of this repo to your computer.
 
 ```
-  git clone https://github.com/yourGithubUsername/hacktoberfest-philippines.git
+  git clone https://github.com/Your_Github_Username/hacktoberfest-philippines.git
 ```
 
 - Switch to the cloned folder. This can be done with Gitbash or the integrated terminal in the VSCode editor.
@@ -47,8 +47,7 @@ Questions can be asked by raising an Issue. Bugs found? raised an Issue too.
 - Create new file, name it, follow this format `Your_GitHub_Username.md`.
 - Introduce yourself, example below:
 ```
-| Vincent Villafuerte | [vinzvinci](https://github.com/vinzvinci) | [vinzvinci.github.io](vinzvinci.github.io) | Founder of Surpath ~~-~~ Microsoft Learn Student Ambassador ~~-~~ Open Source Enthusiast ~~-~~ Software Engineer |
-
+| Vincent Villafuerte | [vinzvinci](https://github.com/vinzvinci) | [vincentvillafuerte](https://www.linkedin.com/in/vincentvillafuerte) | [vinzvinci.github.io](vinzvinci.github.io) | Founder of Surpath / Microsoft Learn Student Ambassador / Open Source DevRel / Software Engineer |
 ```
 
 - Stage your changes.
