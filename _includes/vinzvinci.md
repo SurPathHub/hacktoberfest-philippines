@@ -1,0 +1,1 @@
+| Vincent Villafuerte | [vinzvinci](https://github.com/vinzvinci) | [vinzvinci.github.io](vinzvinci.github.io) | Founder of Surpath ~~-~~ Microsoft Learn Student Ambassador ~~-~~ Open Source Enthusiast ~~-~~ Software Engineer |
