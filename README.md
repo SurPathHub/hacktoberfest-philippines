@@ -1,37 +1,37 @@
 # Welcome to Hacktoberfest PH Community! 
-This repo will help you to practice for incoming hacktoberfest. We have other repositories in the organization. If you would like to join our GitHub organization, raise an issue on this repo <a href="https://github.com/Surpath-Community/Surpath-Community-Support">Surpath-Community-Support</a>
+This repository will help you practice for the incoming Hacktoberfest—a month-long celebration of open-source software. Apart from this, we also have other repositories in our GitHub organization. If you would like to join, kindly raise an issue in this repository: <a href="https://github.com/Surpath-Community/Surpath-Community-Support">Surpath-Community-Support</a>.
 
 <img src="https://user-images.githubusercontent.com/73097560/102705814-8b1fb180-42c6-11eb-89ec-a74cb17f84dc.png">
 
 <hr>
 
-**Note:** Only from **Philippines** can join in this organization.
+**Note:** Only people from the **Philippines** are allowed to join this organization.
 <hr>
 
-## How to Contribute?
-1. Fork the project
-2. Go to <a href="https://github.com/surpathcommunity/surpath-member-info/tree/main/_includes">_includes</a> folder.
-3. Click vinzvinci.md, copy all the details, and go back to the folder 
-4. Create a file, name it, follow this format `Your_GitHub_Username.md`.
-5. On this repo, click `Pull Requests` and raise a `Pull Request` selecting your fork on the right drop down
+## How to Contribute
+1. Fork this repository.
+2. Go to the <a href="https://github.com/surpathcommunity/surpath-member-info/tree/main/_includes">_includes</a> folder.
+3. Click and copy all the details from <a href="https://github.com/surpathcommunity/hacktoberfest-philippines/blob/main/_includes/vinzvinci.md">vinzvinci.md</a>, then go back to the folder. 
+4. Create a file and name it using this format: `Your_GitHub_Username.md`.
+5. On this repository, click `Pull Requests` and raise a `Pull Request` selecting your fork on the right drop-down.
 
 ```
-Questions can be asked by raising an Issue. Bugs found? raised an Issue too.
+Questions can be asked by raising an issue. Have you found any bugs? You may raise an issue too.
 ```
 
-## How to clone repo and make changes locally.<br />
+## How to Clone the Repository and Make Changes Locally<br />
 
 ```
-  click on the clone button (green in colour). This gives you a copy of the project. Its now yours to play around with
+  click on the clone button (green in colour). This gives you a copy of the project. It's now yours to play around with.
 ```
 
-- Using git on your local machine. Do this to download the forked copy of this repo to your computer.
+- Using git on your local machine, do this to download the forked copy of the repository to your computer.
 
 ```
   git clone https://github.com/Your_Github_Username/hacktoberfest-philippines.git
 ```
 
-- Switch to the cloned folder. This can be done with Gitbash or the integrated terminal in the VSCode editor.
+- Switch to the cloned folder. This can be done with Git Bash or the integrated terminal in the Visual Studio Code editor.
 
 ```
   cd hacktoberfest-philippines
@@ -43,9 +43,9 @@ Questions can be asked by raising an Issue. Bugs found? raised an Issue too.
   git checkout -b <name of new branch>
 ```
 
-- Open the file `_includes` folder
-- Create new file, name it, follow this format `Your_GitHub_Username.md`.
-- Introduce yourself, example below:
+- Open the file in the `_includes` folder.
+- Create a new file and name it using this format: `Your_GitHub_Username.md`.
+- Introduce yourself using the sample format below.
 ```
 | Vincent Villafuerte | [vinzvinci](https://github.com/vinzvinci) | [vincentvillafuerte](https://www.linkedin.com/in/vincentvillafuerte) | [vinzvinci.github.io](vinzvinci.github.io) | Founder of Surpath / Microsoft Learn Student Ambassador / Open Source DevRel / Software Engineer |
 ```
@@ -67,25 +67,25 @@ Questions can be asked by raising an Issue. Bugs found? raised an Issue too.
 ```
   git status
 ```
-- Pushing your repository to github.<br />
+- Push your repository to GitHub.<br />
 
 ```
   git push origin <name of your branch>
 ```
 
-- Pulling your request. Click on the Pull requests tab on the forked github repository. Note : A pull request allows your changes to be merged with the original project.<br />
+- Pull your request. Click on the `Pull Requests` tab on the forked GitHub repository. Note: a pull request allows your changes to be merged with the original project or repository.<br />
 
 ```
   click on pull request
 ```
 
-**Congrats you made a contribution!**
+**Congratulations! You successfully made a contribution!**
 
-Note: Wait for your changes to be merged
+Note: wait for your changes to be merged.
 
 <hr />
 
-<p align="center">Join our conversation on discord: <br>
+<p align="center">Join our conversation on Discord: <br>
   <a href="https://discord.com/invite/RATJsSGM9d">
     <img src="https://img.shields.io/discord/790101969413865472?logo=discord&style=for-the-badge" />
   </a>
