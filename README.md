@@ -47,7 +47,7 @@ Questions can be asked by raising an Issue. Bugs found? raised an Issue too.
 - Create new file, name it, follow this format `Your_GitHub_Username.md`.
 - Introduce yourself, example below:
 ```
-| Vincent Villafuerte | [vinzvinci](https://github.com/vinzvinci) | [vincentvillafuerte](https://www.linkedin.com/in/vincentvillafuerte) | [vinzvinci.github.io](vinzvinci.github.io) | Founder of Surpath / Microsoft Learn Student Ambassador / Open Source DevRel / Software Engineer |
+| Vincent Villafuerte | [vinzvinci](https://github.com/vinzvinci) | [vincentvillafuerte](https://www.linkedin.com/in/vincentvillafuerte) | [https://vinzvinci.github.io/](https://vinzvinci.github.io/) | Founder of Surpath / Microsoft Learn Student Ambassador / Open Source DevRel / Software Engineer |
 ```
 
 - Stage your changes.
