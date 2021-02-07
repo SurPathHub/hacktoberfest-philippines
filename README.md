@@ -5,7 +5,7 @@ This repository will help you practice for the incoming Hacktoberfest—a month-
 
 <hr>
 
-**Note:** Only people from the **Philippines** are allowed to join this organization.
+**Note:** Only people from the **Philippines** are allowed to join this organization but anyone can help to improve our projects.
 <hr>
 
 ## How to Contribute
