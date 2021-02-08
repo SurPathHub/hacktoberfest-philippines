@@ -11,7 +11,7 @@ This repository will help you practice for the incoming Hacktoberfest—a month-
 ## How to Contribute
 1. Fork this repository.
 2. Go to the <a href="https://github.com/surpathcommunity/surpath-member-info/tree/main/_includes">_includes</a> folder.
-3. Click and copy all the details from <a href="https://github.com/surpathcommunity/hacktoberfest-philippines/blob/main/_includes/vinzvinci.md">vinzvinci.md</a>, then go back to the folder. 
+3. Click and copy all the details from <a href="https://github.com/surpathcommunity/hacktoberfest-philippines/edit/main/_includes/template.md">template.md</a>, then go back to the folder. 
 4. Create a file and name it using this format: `Your_GitHub_Username.md`.
 5. On this repository, click `Pull Requests` and raise a `Pull Request` selecting your fork on the right drop-down.
 
