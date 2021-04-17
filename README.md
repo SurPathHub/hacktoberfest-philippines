@@ -5,7 +5,8 @@ This repository will help you practice for the incoming Hacktoberfest—a month-
 
 <hr>
 
-**Note:** Only people from the **Philippines** are allowed to join this organization but anyone can help to improve our projects.
+**Note:** Only people from the **Philippines** are allowed to join this organization but anyone can help to improve our projects. Don't worry, we have <a href="https://github.com/EddieHubCommunity/support">EddieHub</a> Community, this is our international open-source community, anyone can join.
+
 <hr>
 
 ## How to Contribute
