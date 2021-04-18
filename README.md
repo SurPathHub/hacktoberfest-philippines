@@ -1,5 +1,5 @@
 # Welcome to Hacktoberfest PH Community! 
-This repository will help you practice for the incoming Hacktoberfest—a month-long celebration of open-source software. Apart from this, we also have other repositories in our GitHub organization. If you would like to join, kindly raise an issue in this repository: <a href="https://github.com/Surpath-Community/Surpath-Community-Support">Surpath-Community-Support</a>.
+This repository will help you practice for the incoming Hacktoberfest—a month-long celebration of open-source software. Apart from this, we also have other repositories in our GitHub organization. If you would like to join, kindly raise an issue in this repository: <a href="https://github.com/SurPathHub/support">support</a>.
 
 <img src="https://user-images.githubusercontent.com/73097560/102705814-8b1fb180-42c6-11eb-89ec-a74cb17f84dc.png">
 
@@ -11,8 +11,8 @@ This repository will help you practice for the incoming Hacktoberfest—a month-
 
 ## How to Contribute
 1. Fork this repository.
-2. Go to the <a href="https://github.com/surpathcommunity/surpath-member-info/tree/main/_includes">_includes</a> folder.
-3. Click and copy all the details from <a href="https://github.com/surpathcommunity/hacktoberfest-philippines/edit/main/_includes/template.md">template.md</a>, then go back to the folder. 
+2. Go to the <a href="https://github.com/SurPathHub/hacktoberfest-philippines/tree/main/_includes">_includes</a> folder.
+3. Click and copy all the details from <a href="https://github.com/SurPathHub/hacktoberfest-philippines/edit/main/_includes/template.md">template.md</a>, then go back to the folder. 
 4. Create a file and name it using this format: `Your_GitHub_Username.md`.
 5. On this repository, click `Pull Requests` and raise a `Pull Request` selecting your fork on the right drop-down.
 
@@ -87,7 +87,7 @@ Note: wait for your changes to be merged.
 <hr />
 
 ### SWAG (Stuff We All Get)
-- <a href="https://github.com/surpathcommunity/hacktoberfest-philippines/issues/9">Hacktoberfest 2020</a>
+- <a href="https://github.com/SurPathHub/hacktoberfest-philippines/issues/9">Hacktoberfest 2020</a>
 
 <hr />
 
