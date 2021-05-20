@@ -1,7 +1,12 @@
-# Contributing
+# BECOME A CONTRIBUTOR
 
-Hello fellas!
-By participating in this project, you agree to abide by the <a href="https://github.com/surpathcommunity/hacktoberfest-philippines/blob/main/CODE_OF_CONDUCT.md">Code of Conduct</a>
+By participating in this project, you agree to abide by the [Contributor Covenant](CONTRIBUTING.md).
+
+## Note
+- Please create an issue first before creating a `Pull request` and wait for the maintainer/admin for the approval.
+- If your issue is approve by the maintainer/admin, you can now start work with it. 
+
+The steps may help you if you're going to make big changes:
 
 ## Steps
 
@@ -12,4 +17,12 @@ By participating in this project, you agree to abide by the <a href="https://git
 5. [Push](https://help.github.com/articles/pushing-to-a-remote/) yours changes to your forked version
 6. Go to original project on GitHub & Create a [Pull Request](https://help.github.com/articles/about-pull-requests/)
 
-**AND YOU'RE DONE!**
+**DONE**
+
+<hr />
+
+## Additional
+If you only want to make a suggestion, please do create an issue and tell us that you're not going to work with the issue.
+
+<hr />
+Thank you 🙂
