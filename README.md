@@ -88,11 +88,3 @@ Note: wait for your changes to be merged.
 
 ### SWAG (Stuff We All Get)
 - <a href="https://github.com/SurPathHub/hacktoberfest-philippines/issues/9">Hacktoberfest 2020</a>
-
-<hr />
-
-<p align="center">Join our conversation on Discord: <br>
-  <a href="https://discord.com/invite/RATJsSGM9d">
-    <img src="https://img.shields.io/discord/790101969413865472?logo=discord&style=for-the-badge" />
-  </a>
-</p>
