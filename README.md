@@ -48,7 +48,7 @@ Questions can be asked by raising an issue. Have you found any bugs? You may rai
 - Create a new file and name it using this format: `Your_GitHub_Username.md`.
 - Introduce yourself using the sample format below.
 ```
-| Vincent Villafuerte | [vinzvinci](https://github.com/vinzvinci) | [vincentvillafuerte](https://www.linkedin.com/in/vincentvillafuerte) | [https://vinzvinci.github.io/](https://vinzvinci.github.io/) | Founder of Surpath / Microsoft Learn Student Ambassador / Open Source DevRel / Software Engineer |
+Vincent Villafuerte | [vinzvinci](https://github.com/vinzvinci) | Microsoft Learn Student Ambassador &#124; GitHub Campus Expert &#124; BS Information System Student &#124; Open Source Contributor &#124; DevRel |
 ```
 
 - Stage your changes.
