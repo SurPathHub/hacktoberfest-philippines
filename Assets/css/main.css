@@ -1,7 +1,34 @@
+:root {
+	--brand-color-1: #F95757;
+	--brand-color-2: #000000;
+	--brand-color-3: #292929;
+}
+
+.inter {
+  font-family: 'Inter', sans-serif;
+}
+
 .bg-1 {
 	background: url("../img/BG_1.png");
 }
 
 .accent-1 {
-	color: #F95757;
+	color: var(--brand-color-1);
 }
+
+.bg-2 {
+  background: var(--brand-color-3);
+	}
+
+.bg-3 {
+	background: var(--brand-color-2);
+}
+
+#hover {
+	color: gray;
+}
+
+#hover:hover {
+	color: var(--brand-color-1);
+}
+
