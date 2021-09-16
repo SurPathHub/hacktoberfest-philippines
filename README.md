@@ -1,7 +1,7 @@
 # Welcome to Hacktoberfest PH Community! 
-This repository will help you practice for the incoming Hacktoberfest—a month-long celebration of open-source software. Apart from this, we also have other repositories in our GitHub organization. If you would like to join, kindly raise an issue in this repository: <a href="https://github.com/SurPathHub/support">support</a>.
+This repository will help you practice for the incoming Hacktoberfest—a month-long celebration of open-source software. Apart from this, we also have other repositories in our GitHub organization.
 
-<img src="https://user-images.githubusercontent.com/73097560/102705814-8b1fb180-42c6-11eb-89ec-a74cb17f84dc.png">
+<a href="https://surpathhub.github.io/hacktoberfest-philippines/"><img src="https://user-images.githubusercontent.com/73097560/133547918-a303fbfb-5b0b-4cb9-bb16-4d025ef3f9d6.PNG"></a>
 
 <hr>
 
@@ -10,81 +10,28 @@ This repository will help you practice for the incoming Hacktoberfest—a month-
 <hr>
 
 ## How to Contribute
-1. Fork this repository.
-2. Go to the <a href="https://github.com/SurPathHub/hacktoberfest-philippines/tree/main/_includes">_includes</a> folder.
-3. Click and copy all the details from <a href="https://github.com/SurPathHub/hacktoberfest-philippines/edit/main/_includes/template.md">template.md</a>, then go back to the folder. 
-4. Create a file and name it using this format: `Your_GitHub_Username.md`.
-5. On this repository, click `Pull Requests` and raise a `Pull Request` selecting your fork on the right drop-down.
+1. [Fork](https://help.github.com/articles/fork-a-repo/) this project
+2. [Clone](https://help.github.com/articles/fork-a-repo/#step-2-create-a-local-clone-of-your-fork) your forked version `git clone git@github.com:<YOUR-USERNAME>/hacktoberfest-philippines.git`
+3. Make changes 
+4. [Commit](https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/) your changes (write a short descriptive message of what you have done)
+5. [Push](https://help.github.com/articles/pushing-to-a-remote/) yours changes to your forked version
+6. Go to original project on GitHub & Create a [Pull Request](https://help.github.com/articles/about-pull-requests/)
 
-```
-Questions can be asked by raising an issue. Have you found any bugs? You may raise an issue too.
-```
+Read the full details of the [contributing guidelines](https://github.com/SurPathHub/hacktoberfest-philippines/blob/main/CONTRIBUTING.md)
 
-## How to Clone the Repository and Make Changes Locally<br />
+> Questions can be asked by raising an [issue](https://github.com/SurPathHub/hacktoberfest-philippines/issues). Have you found any bugs? You may raise an issue too.
 
-```
-  click on the clone button (green in colour). This gives you a copy of the project. It's now yours to play around with.
-```
+## Hacktoberfest Practice Pull Requests
 
-- Using git on your local machine, do this to download the forked copy of the repository to your computer.
+Visit this repository to practice Pull Request 👉 [hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 
-```
-  git clone https://github.com/Your_Github_Username/hacktoberfest-philippines.git
-```
+## Learn more about Hacktoberfest by clicking the poster below 👇
 
-- Switch to the cloned folder. This can be done with Git Bash or the integrated terminal in the Visual Studio Code editor.
+[![Watch The Video](https://user-images.githubusercontent.com/61582763/94226800-1d0d5d80-ff16-11ea-8097-689ec7b5af69.png)](https://youtu.be/tjH6txTiC6E)
 
-```
-  cd hacktoberfest-philippines
-```
-
-- Make a new branch. Your name would make a good branch because it's unique.
-
-```
-  git checkout -b <name of new branch>
-```
-
-- Open the file in the `_includes` folder.
-- Create a new file and name it using this format: `Your_GitHub_Username.md`.
-- Introduce yourself using the sample format below.
-```
-Vincent Villafuerte | [vinzvinci](https://github.com/vinzvinci) | Microsoft Learn Student Ambassador &#124; GitHub Campus Expert &#124; BS Information System Student &#124; Open Source Contributor &#124; DevRel |
-```
-
-- Stage your changes.
-
-```
-  git add Your_GitHub_Username.md
-```
-
-- Commit the changes.
-
-```
-  git commit -m "Initial commit"
-```
-
-- Check the status of your repository.<br />
-
-```
-  git status
-```
-- Push your repository to GitHub.<br />
-
-```
-  git push origin <name of your branch>
-```
-
-- Pull your request. Click on the `Pull Requests` tab on the forked GitHub repository. Note: a pull request allows your changes to be merged with the original project or repository.<br />
-
-```
-  click on pull request
-```
-
-**Congratulations! You successfully made a contribution!**
-
-Note: wait for your changes to be merged.
+Hosted by https://hacktoberfest.digitalocean.com/
 
 <hr />
 
-### SWAG (Stuff We All Get)
+### Recent SWAG (Stuff We All Get)
 - <a href="https://github.com/SurPathHub/hacktoberfest-philippines/issues/9">Hacktoberfest 2020</a>
