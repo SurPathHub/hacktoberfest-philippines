@@ -1,7 +1,11 @@
 # Welcome to Hacktoberfest PH Community! 
-Surpath Hub will be joining in a month-long event called Hacktoberfest. Hacktoberfest Philippines will encourage every Filipino student, career shifter, and aspiring developer to contribute to Open Source Software.
+Surpath Hub will be joining in a month-long event called [Hacktoberfest](https://hacktoberfest.digitalocean.com/).
+
+The SurPath Hub will encourage every Filipino student, career shifter, and aspiring developer to contribute to Open Source Software.
 
 <a href="https://surpathhub.github.io/hacktoberfest-philippines/"><img src="https://user-images.githubusercontent.com/73097560/133547918-a303fbfb-5b0b-4cb9-bb16-4d025ef3f9d6.PNG"></a>
+
+[Live View](https://surpathhub.github.io/hacktoberfest-philippines/)
 
 <hr>
 
