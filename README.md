@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Welcome to Hacktoberfest PH Community! 
 Surpath Hub will be joining in a month-long event called [Hacktoberfest](https://hacktoberfest.digitalocean.com/).
 
