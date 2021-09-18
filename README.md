@@ -9,7 +9,7 @@ The SurPath Hub will encourage every Filipino student, career shifter, and aspir
 
 <hr>
 
-**Note:** Only people from the **Philippines** are allowed to join this organization and be part in our project, but anyone can help to improve our project. Don't worry, we have <a href="https://github.com/EddieHubCommunity/support">EddieHub</a> Community: this is our global open-source community, and anyone can join.
+**Note:** Anyone can help improve our projects, but only those residing in the Philippines are encouraged to join our organization and participate in our events. We have [EddieHub Community](https://www.eddiehub.org/) as our global, open-source community for everyone.
 
 <hr>
 
