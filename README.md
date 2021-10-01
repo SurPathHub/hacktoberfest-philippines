@@ -39,3 +39,6 @@ Hosted by https://hacktoberfest.digitalocean.com/
 
 ### Recent SWAG (Stuff We All Get)
 - <a href="https://github.com/SurPathHub/hacktoberfest-philippines/issues/9">Hacktoberfest 2020</a>
+
+### Hacktoberfest Guidelines
+https://github.com/SurPathHub/hacktoberfest-philippines/blob/main/hacktoberfest-guide.md
