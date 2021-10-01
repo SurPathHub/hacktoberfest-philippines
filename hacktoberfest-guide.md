@@ -13,3 +13,6 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
   - Global community
 - http://discord.eddiehub.org/ 
   - Global community 
+
+### Hacktoberfest 2021 Projects
+https://github.com/search?q=hacktoberfest2021
